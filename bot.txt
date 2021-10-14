@@ -1,0 +1,5 @@
+{
+                "ip":"EDSMPOP.aternos.me
+                "port":"54712"
+                "name":"GHOCHU"
+}
